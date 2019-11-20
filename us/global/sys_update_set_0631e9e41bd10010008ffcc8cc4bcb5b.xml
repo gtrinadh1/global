@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-20 10:40:16">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>New Update Set 4</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0631e9e41bd10010008ffcc8cc4bcb5b</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 10:40:14</sys_created_on>
+<sys_id>c991612c1bd10010008ffcc8cc4bcb46</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 10:40:14</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_a541652c1bd10010008ffcc8cc4bcbf8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client"><sys_script_client action="INSERT_OR_UPDATE"><active>true</active><applies_extended>false</applies_extended><condition/><description/><field/><global>true</global><isolate_script>true</isolate_script><messages/><name/><order/><script/><sys_class_name>sys_script_client</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-11-20 10:39:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a541652c1bd10010008ffcc8cc4bcbf8</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_script_client_a541652c1bd10010008ffcc8cc4bcbf8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-11-20 10:39:01</sys_updated_on><table/><type/><ui_type>0</ui_type><view/></sys_script_client></record_update>]]></payload>
+<payload_hash>-2069418190</payload_hash>
+<remote_update_set display_value="New Update Set 4">c991612c1bd10010008ffcc8cc4bcb46</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-20 10:40:14</sys_created_on>
+<sys_id>8d91612c1bd10010008ffcc8cc4bcb46</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e8864db660000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-20 10:40:14</sys_updated_on>
+<table/>
+<target_name/>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>1341a52c07d100109ea8c8b287c4ce6f</update_guid>
+<update_guid_history>1341a52c07d100109ea8c8b287c4ce6f:-2069418190</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
